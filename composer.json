@@ -27,7 +27,7 @@
         "ext-simplexml": "*",
         "ext-xml": "*",
         "ext-openssl": "*",
-        "guzzlehttp/guzzle": "~8.0"
+        "guzzlehttp/guzzle": "~7.0"
     },
     "require-dev": {
         "codeception/codeception": "*"
